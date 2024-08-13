@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 1440px;
+    height: auto;
+    margin: auto;
+
+
+}
+
+header {
+    background-color: rgb(177, 183, 184);
+}
+
+header {
+    width: 1440px;
+
+
+
+}
+
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-left: 20px;
+
+    li {
+        list-style: none;
+        margin-top: 20px;
+        font-size: 23px;
+        font-weight: 600;
+    }
+
+    a {
+        text-decoration: none;
+        margin-left: 30px;
+        color: black;
+    }
+
+}
+
+.fa-magnifying-glass {
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top: 16px;
+}
+
+.fa-apple {
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+.apple {
+    font-size: 60px;
+   text-align: center;
+    margin-top: 50px;
+    align-items: center;
+   
+}
+
+
+.fa-cart-shopping {
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.fa-house{
+    font-size: 27px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.rasm1 {
+    width: 1440px;
+    height: auto;
+    position: relative;
+}
+
+.img1 img {
+  
+    width: 1440px;
+    height: auto;
+    z-index: 2;
+
+}
+
+.h2 {
+    position: absolute;
+    z-index: 1;
+    font-size: 30px;
+    color: aliceblue;
+    margin-left: 570px;
+    margin-top: 590px;
+
+}
+main{
+    width: 1440px;
+    margin: auto;
+    background-color: rgb(142, 150, 150);
+}
+
+.rasm2 img{
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    margin-left: 210px;
+    border-radius: 100px;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.btn0{
+    width: 200px;
+    height: 70px;
+    margin-right: 100px;
+    margin-left: 600px;
+    border-radius: 30px;
+    font-size: 25px;
+    background-color: rgb(112, 131, 175);
+    border-color: aliceblue;
+}
